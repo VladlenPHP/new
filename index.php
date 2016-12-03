@@ -1,4 +1,6 @@
 <?  изменение 1 prog1
+    изменение 1 prog1
+    изменение 1 prog1
 	include "db/goods.base";
 	echo $_SESSION["REFERRER"]."<br>";
 	echo $_SERVER['REQUEST_URI'];
